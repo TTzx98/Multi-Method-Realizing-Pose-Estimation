@@ -1,0 +1,1 @@
+python -m tf2onnx.convert --tflite pose_landmark_heavy.tflite --output pose_landmark_heavy.onnx
